@@ -1,3 +1,4 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # Accompaniment Generation
 This is an assignment for the Introduction to Artificial Intelligence course in Innopolis University
 ## Task
